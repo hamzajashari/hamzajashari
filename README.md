@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0078D4,50:005A9E,100:003B73&fontColor=ffffff&text=Hamza%20Jashari&fontAlign=50&fontAlignY=35&fontSize=48&desc=Software%20Engineer%20•%20.NET%20•%20Angular%20•%20React%20•%20Azure%20•%20DevOps&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0078D4,50:005A9E,100:003B73&fontColor=ffffff&text=Hamza%20Jashari&fontAlign=50&fontAlignY=35&fontSize=48&desc=Software%20Engineer%20•%20.NET%20•%20Angular%20•%20React%20•%20Azure%20•%20DevOps&descAlign=50&descAlignY=65&descFontColor=ffffff" alt="header" />
 </div>
 
 
@@ -177,10 +177,7 @@ Currently working at **EVN (Energy Sector)** building internal and customer-faci
 ---
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/hamzajashari">
-    <img src="qr-code.png" alt="Buy Me a Coffee QR" width="150" height="150" />
-  </a>
-  <p>☕ Tap or scan to support me!</p>
+  <a href="https://www.buymeacoffee.com/hamzajashari" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0078D4,50:005A9E,100:003B73&fontColor=ffffff" />
