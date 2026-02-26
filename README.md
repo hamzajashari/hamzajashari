@@ -30,44 +30,6 @@ I design and deliver secure, scalable, production-grade systems with a focus on:
 Currently working at **EVN (Energy Sector)** building internal and customer-facing enterprise systems.
 
 ---
-
-## 💼 Professional Experience
-
-### 🏢 Software Engineer — EVN, Skopje
-
-- Built and maintained **.NET Core / ASP.NET Web API** applications using:
-  - Dapper (parameterized stored procedures)
-  - Entity Framework
-  - SQL Server
-
-- Designed and maintained **Azure DevOps CI/CD pipelines**
-  - Build, test, versioning, and deployment automation
-  - Multi-environment configuration (Dev / QA / Prod)
-  - Managed self-hosted agents for on-prem infrastructure
-
-- Deployed:
-  - Angular/React applications using **Docker + Nginx**
-  - .NET applications on **IIS**
-  - SQL Server on virtual machines (installation, configuration, backups)
-
-- Implemented secure authentication using:
-  - **Azure AD**
-  - OAuth 2.0
-  - Access token validation & identity resolution
-
-- Built event-driven architecture using:
-  - Azure Functions
-  - Azure Service Bus
-  - Background consumers & async job processing
-
-- Integrated external systems:
-  - Atlassian APIs & Webhooks
-  - Automated service request workflows
-
-- Implemented real-time notifications using:
-  - SignalR for live service request updates
-
----
 ## 🛠 Tech Stack
 
 ### 🧠 Backend & APIs
@@ -135,29 +97,6 @@ Currently working at **EVN (Energy Sector)** building internal and customer-faci
   <img src="https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
-
-## 🎓 Education & Certifications
-
-- 🎓 Computer Science & Engineering  
-  University of Saints Cyril and Methodius  
-
-- ☁️ Microsoft Certifications:
-  - AZ-400 (DevOps Engineer Expert)
-  - AZ-900 (Azure Fundamentals)
-
-- 🏫 EVN Austria Academy  
-  Certified in Requirements Engineering & Project Management  
-
----
-
-## 🌍 Languages
-
-- English
-- Albanian  
-- Macedonian  
-- French  
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
