@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0078D4,50:005A9E,100:003B73&fontColor=ffffff&text=Hamza%20Jashari&fontAlign=50&fontAlignY=35&fontSize=48&desc=Software%20Engineer%20•%20.NET%20•%20Angular%20•%20React%20•%20Azure%20•%20DevOps&descAlign=50&descAlignY=65&descFontColor=ffffff" alt="header" />
 </div>
 
-
-
 <p align="center">
   <a href="https://github.com/hamzajashari">
     <img alt="Followers" src="https://img.shields.io/github/followers/hamzajashari?style=for-the-badge&color=2563EB&label=Followers">
@@ -13,111 +11,80 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/hamzajashari?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED&label=Stars">
   </a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzajashari&style=for-the-badge&color=6366F1">
+  <a href="https://www.linkedin.com/in/hamzajashari">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 
-Software Engineer based in North Macedonia with strong expertise in **.NET ecosystem, Azure Cloud, DevOps, and enterprise architecture**.
+Software Engineer based in **North Macedonia**, building secure, scalable enterprise systems in the energy sector. I care about clean architecture, reliable infrastructure, and shipping things that actually work in production.
 
-I design and deliver secure, scalable, production-grade systems with a focus on:
-
-- 🔹 Clean architecture & maintainable backend systems  
-- 🔹 CI/CD automation & infrastructure management  
-- 🔹 Secure authentication & enterprise integrations  
-- 🔹 Performance, reliability, and observability  
-
-Currently working at **EVN (Energy Sector)** building internal and customer-facing enterprise systems.
+- 🔨 Currently building internal & customer-facing systems at **EVN**
+- 🌱 Always exploring better ways to design distributed systems
+- 🚀 Focused on **.NET**, **Azure**, and modern frontend with **Angular** & **React**
 
 ---
+
 ## 🛠 Tech Stack
 
-### 🧠 Backend & APIs
+### Backend & APIs
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 📱 Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IIS-0078D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🗄 Databases
+### Databases
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000"/>
 </p>
 
-### 🖥 Infrastructure & Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netgear-6D01A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ConnectWise_Automate-2F65B0?style=for-the-badge"/>
-</p>
-
-### 🎨 Creative Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-</p>
+---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td>
-     <img height="160"
-     src="https://github-readme-stats-sage-six-40.vercel.app/api?username=hamzajashari&show_icons=true&theme=midnight-purple" />
-      </td>
-    </tr>
-  </table>
 
-  <!-- Activity Graph -->
-  <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=hamzajashari&theme=react-dark&hide_border=true&area=true" />
+<div align="center">
+  <img height="160" src="https://github-readme-stats-sage-six-40.vercel.app/api?username=hamzajashari&show_icons=true&theme=midnight-purple" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzajashari&layout=compact&theme=midnight-purple" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzajashari&theme=midnight-purple&hide_border=true" />
+</div>
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzajashari&theme=react-dark&hide_border=true&area=true" />
+</div>
 
 ---
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/hamzajashari" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0078D4,50:005A9E,100:003B73&fontColor=ffffff" />
 </div>
