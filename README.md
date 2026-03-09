@@ -71,8 +71,8 @@ Software Engineer based in **North Macedonia**, building secure, scalable enterp
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sage-six-40.vercel.app/api?username=hamzajashari&show_icons=true&theme=midnight-purple" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzajashari&layout=compact&theme=midnight-purple" />
+  <img height="160" src="./profile/stats.svg" />
+  <img height="160" src="./profile/languages.svg" />
 </div>
 
 <div align="center">
